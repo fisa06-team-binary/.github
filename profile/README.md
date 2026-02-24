@@ -13,8 +13,8 @@
 
 | Phase | Project | Core Engineering | Link |
 | :---: | :--- | :--- | :--- |
-| **Phase 1** | **금융 고객 타겟팅 (RRF 하이브리드 검색)** | `SQL Hard Filter`, `BM25`, `Dense Vector`, `RRF 융합` | [➡️ Phase 1 Repository](https://github.com/fisa06-team-binary/Hybrid-Search-RRF-Lab) |
-| **Phase 2** | **오답률 0% 하이브리드 RAG 파이프라인** | `ChromaDB`, `Metadata Filtering`, `LLM Re-ranking` | [➡️ Phase 2 Repository](https://github.com/fisa06-team-binary/RAG-Search-Architecture-test) |
+| **Phase 1** | **오답률 0% 하이브리드 RAG 파이프라인** | `ChromaDB`, `Metadata Filtering`, `LLM Re-ranking` | [➡️ Phase 2 Repository](https://github.com/fisa06-team-binary/RAG-Search-Architecture-test) |
+| **Phase 2** | **금융 고객 타겟팅 (RRF 하이브리드 검색)** | `SQL Hard Filter`, `BM25`, `Dense Vector`, `RRF 융합` | [➡️ Phase 1 Repository](https://github.com/fisa06-team-binary/Hybrid-Search-RRF-Lab) |
 | **Phase 3** | **주식 종목 AI 탐색기 (Elasticsearch)** | `Elasticsearch 8.x`, `Query Expansion(LLM)` | [➡️ Phase 3 Repository](https://github.com/fisa06-team-binary/stock-rag-platform) |
 
 <br>
